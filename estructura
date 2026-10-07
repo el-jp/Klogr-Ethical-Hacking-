@@ -1,0 +1,17 @@
+lab_hacking_etico/
+├── README.md
+├── kali/
+│   ├── c2_server.py
+│   ├── phishing_server.py
+│   └── landing/
+│       └── index.html
+├── windows/
+│   ├── victim.py
+│   ├── metasploit.ico
+│   └── MetasploitFramework-latest.spec
+├── email/
+│   └── anuncio_semana10.eml
+└── docs/
+    ├── vector_ataque.md
+    ├── asignacion_ip_kali.md
+    └── limpieza.md
